@@ -1,5 +1,5 @@
 USTH Image Processing 2026
 ===================================
 
-* Your name
-* Your student ID
+Nguyễn Thế Anh
+22BA14006
